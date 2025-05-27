@@ -1,2 +1,3 @@
 # dhruvademo
-this is my first git repo
+this is my first Git Repository 
+Author - Dhruv Agarwal
